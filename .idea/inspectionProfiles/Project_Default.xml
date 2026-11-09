@@ -1,0 +1,54 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="hreaf" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="Task1" />
+          <option value="Task1" />
+          <option value="Task1" />
+          <option value="Task1" />
+          <option value="Task1" />
+          <option value="Task1" />
+          <option value="Task1" />
+          <option value="Task1" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="org.springframework.boot:spring-boot:3.4.5" />
+          <option value="org.thymeleaf:thymeleaf-spring6:3.1.3.RELEASE" />
+          <option value="org.apache.commons:commons-lang3:3.17.0" />
+          <option value="io.opentelemetry:opentelemetry-api:1.43.0" />
+          <option value="org.springframework.boot:spring-boot-autoconfigure:3.4.5" />
+          <option value="org.thymeleaf:thymeleaf:3.1.3.RELEASE" />
+          <option value="ch.qos.logback:logback-classic:1.5.18" />
+          <option value="ch.qos.logback:logback-core:1.5.18" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
